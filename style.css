@@ -1,0 +1,124 @@
+.nav-iteme{
+    margin-left: 366px;
+}
+.nav-item{
+    margin-left: 80px;
+}
+#nav{
+    background-color: yellow !important;
+    width: 251px;
+}
+#logo{
+    
+}
+#text1{margin-left: 11px;
+    font-size: 30px;
+}
+.toggler{
+    background-color:yellow ;
+}
+nav{
+    position: sticky !important;
+}
+#img1{
+    width: 100%;
+    height: 800px;
+}
+#text2{
+    position: absolute;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+    
+
+}
+#text3{
+    font-size: 50px;
+}
+#text4{
+    margin-left: 32px;
+}
+#ain{
+    transition: 3s;
+}
+#icon{
+    margin: 10px 10px 10px 187px;
+}
+#textalin{
+   text-align: center; 
+}
+.card {
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+    height: 450px;
+    width: 300px;
+    background-color: rgb(235, 235, 235);
+}
+
+/* *{
+    border: 1px solid;
+} */
+#img3{
+    box-sizing: border-box;
+}
+#text5{
+    padding: 10px 10px 10px 21px;
+}
+#img4{
+    height: 411px;
+    width: 100%;
+}
+#text6{
+
+    background-color: #ebebeb;
+}
+#con{
+    margin-top: 50px;
+}
+u{
+    color: yellow;
+}
+ @media(min-width: 600px){
+    #imm{
+        display: block;
+    }
+} 
+#textt{
+    color: black;
+}
+
+#row{
+    width: 100%;
+    height: 130px;
+    background-color: yellow;
+}
+.container5{
+    width: 100%;
+    background-color: yellow;
+}
+#text{
+    text-align: center;
+    
+}
+#bla{
+    margin-left: 108px;
+}
+#hover:hover{
+    transform: scale(1.2);
+cursor: pointer;
+
+}
+#bla:hover{
+    transform:  scale(1.1);
+    cursor: pointer;
+    }
